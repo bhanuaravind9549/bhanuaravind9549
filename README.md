@@ -2,9 +2,9 @@
 
 **Data Scientist · AI/ML Engineer · Data Analyst**
 
-I build machine learning systems and data products that turn complex data into practical decisions. I recently graduated with an **MS in Data Science from Indiana University Bloomington (4.0 GPA)** and bring **1+ year of industry experience** across forecasting, pricing analytics, scalable data pipelines, and business intelligence.
+I build machine learning systems and data products that turn complex data into practical decisions. I recently graduated with an **MS in Data Science from Indiana University Bloomington with 4.0 GPA** and bring **1+ years of industry experience** across forecasting, pricing analytics, scalable data pipelines, and business intelligence.
 
-My current interests include applied AI, transformer models, time-series forecasting, document intelligence, and machine learning for genomics and healthcare.
+My current interests include applied AI, transformer models, time-series forecasting, and machine learning for genomics and healthcare.
 
 ## What I bring
 
