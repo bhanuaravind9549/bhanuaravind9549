@@ -16,17 +16,14 @@ My current interests include applied AI, transformer models, time-series forecas
 
 ## Featured projects
 
-### [Document OCR & Data Extraction Pipeline](https://github.com/bhanuaravind9549/document-ocr-data-extraction-pipeline)
-A document intelligence pipeline that processes images, emails, and text files; applies OCR and structured field extraction; merges related records; standardizes addresses and dates; optionally geocodes locations; and exports analysis-ready Excel work orders.
-
-### [End-to-End Document Classification](https://github.com/bhanuaravind9549/Document-Classification)
-An OCR-to-inference NLP system using the Tobacco3482 dataset, Tesseract, DistilBERT, Flask, and React, with single and batch prediction workflows.
+### [AI Course Predictor](https://github.com/bhanuaravind9549/AI-Course-Predcitor)
+A personalized university course recommendation application that combines React, Flask, structured course data, and a locally hosted Mistral LLM to align recommendations with career goals and scheduling constraints.
 
 ### [Everyday Health Twin](https://github.com/bhanuaravind9549/everyday-health-twin)
 An end-to-end wellness prediction system exploring tree-based models, neural networks, MLPs, and LSTMs to estimate stress, mood, and overall wellness from structured health data.
 
-### [AI Course Predictor](https://github.com/bhanuaravind9549/AI-Course-Predcitor)
-A personalized university course recommendation application that combines React, Flask, structured course data, and a locally hosted Mistral LLM to align recommendations with career goals and scheduling constraints.
+### [End-to-End Document Classification](https://github.com/bhanuaravind9549/Document-Classification)
+An OCR-to-inference NLP system using the Tobacco3482 dataset, Tesseract, DistilBERT, Flask, and React, with single and batch prediction workflows.
 
 ### [Global Supply Chain Disruption Intelligence](https://github.com/bhanuaravind9549/Global-Supply-Chain-Disruption-Intelligence-System)
 An interactive Power BI solution for analyzing trade flows, tariffs, shipping costs, port congestion, industry exposure, and geopolitical disruption risk through a star-schema model and DAX measures.
